@@ -1,0 +1,6 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+EmptyLineBeforeAccessModifier: Leave
+SpaceAfterTemplateKeyword: false
+AlwaysBreakTemplateDeclarations: Yes
+PointerAlignment: Left
